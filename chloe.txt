@@ -1,0 +1,31 @@
+339/
+344
+366/
+303
+336
+312
+
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Surprise Gift & Secret Letter</title>
+    <meta name="description" content="An interactive surprise gift box with an unwrapping animation, secret letter, and playful runaway button." />
+    <meta property="og:title" content="Surprise Gift & Secret Letter" />
+    <meta property="og:description" content="An interactive surprise gift box with an unwrapping animation, secret letter, and playful runaway button." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <script src="/_aistudio-iframe.js?v=6634132a"></script></head>
+  <body class="bg-[#1f0714] text-pink-50 antialiased selection:bg-pink-500/30 selection:text-pink-100 overflow-x-hidden min-h-screen">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
